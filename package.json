@@ -1,8 +1,14 @@
 {
   "name": "app-header",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "this is a component of header",
   "main": "index.js",
   "author": "why",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": ">=5.0.0",
+    "@angular/core": ">=5.0.0",
+    "rxjs": ">=5.0.0",
+    "typescript": "^2.9.2"
+  }
 }
