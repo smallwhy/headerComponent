@@ -1,6 +1,6 @@
 {
   "name": "app-header",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "this is a component of header",
   "main": "index.js",
   "author": "why",
@@ -10,5 +10,8 @@
     "@angular/core": ">=5.0.0",
     "rxjs": ">=5.0.0",
     "typescript": "^2.9.2"
+  },
+  "scripts": {
+    "tsc": "tsc"
   }
 }
