@@ -1,0 +1,8 @@
+{
+  "name": "app-header",
+  "version": "1.0.0",
+  "description": "this is a component of header",
+  "main": "index.js",
+  "author": "why",
+  "license": "MIT"
+}
