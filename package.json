@@ -1,20 +1,21 @@
 {
-  "name": "app-header",
-  "version": "1.0.8",
-  "description": "this is a component of header",
+  "name": "my-ng-lib-angular-test",
+  "version": "1.0.0",
   "main": "index.js",
-  "author": "why",
   "license": "MIT",
+  "devDependencies": {
+    "@angular/common": "^6.0.7",
+    "@angular/core": "^6.0.7",
+    "rxjs": "^6.2.1",
+    "typescript": "2.4.2",
+    "zone.js": "^0.8.26"
+  },
   "peerDependencies": {
     "@angular/common": ">=5.0.0",
     "@angular/core": ">=5.0.0",
-    "rxjs": ">=5.0.0",
-    "typescript": "^2.9.2"
+    "rxjs": ">=5.0.0"
   },
   "scripts": {
     "tsc": "tsc"
-  },
-  "dependencies": {
-    "typescript": "^2.9.2"
   }
 }
