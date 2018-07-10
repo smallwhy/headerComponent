@@ -13,5 +13,8 @@
   },
   "scripts": {
     "tsc": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^2.9.2"
   }
 }
